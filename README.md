@@ -50,17 +50,7 @@ This exercise brought together:
 
 It served as a practical demonstration of building logic step‑by‑step.
 
----
-
-## 📂 Project Structure
-
-```
-📁 python-basics-bootcamp
- ├── fizzbuzz.py
- ├── variables_and_input.py
- ├── loops_and_conditions.py
- ├── README.md
-```
+<img width="809" height="588" alt="Screenshot 2026-03-17 114550" src="https://github.com/user-attachments/assets/1a78d346-0152-42c0-98e4-56001d642363" />
 
 ---
 
